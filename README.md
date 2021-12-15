@@ -1,4 +1,4 @@
-# Desafio de  Projeto sobre Git/GitHub    
+# Desafio de  Projeto sobre Git/GitHub da DIO
 Repositório criado para Desafio de Projeto.
 
 ## Liks úteis
