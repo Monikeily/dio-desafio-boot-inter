@@ -1,7 +1,13 @@
 
-Bootcamp do INTER dia 15/12/2021
+# Bootcamp Inter FrontEnd Developer
+
+Início dia 15/12/2021
+
+## Criando seu Primeiro Repositório no GitHub#
 
 Aluna: Monikeily Lima
-Professor:  
+Professor: Venilton Falvo Jr (Tech Lead na DIO)
 
-Aula 1
+Aula 1 
+##Introdução e Apresentação do Projeto
+
